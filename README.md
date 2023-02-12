@@ -12,6 +12,16 @@
 - `STRING` Your session string, for examplpe you can get it at [replit.com](https://replit.com/@ErichDaniken/Generate-Telegram-String-Session)
 
 ---
+## 🛠️ Deployment
+
+<details>
+  <summary>🔆 Heroku Deploy</summary>
+
+<br>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheFlashSpeedster/ACE-Save-Restricted)
+</details>
+
 
 # Usage
 
